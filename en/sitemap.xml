@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://smileyvignesh.github.com/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://smileyvignesh.github.com/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://smileyvignesh.github.com/"
+                />
+  </url>
+  
+  <url>
     <loc>http://smileyvignesh.github.com/authors/</loc>
     <lastmod>2022-07-21T11:33:17+02:00</lastmod>
     <xhtml:link
@@ -20,21 +35,6 @@
   <url>
     <loc>http://smileyvignesh.github.com/posts/mypost/</loc>
     <lastmod>2022-07-21T11:33:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://smileyvignesh.github.com/</loc>
-    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://smileyvignesh.github.com/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://smileyvignesh.github.com/"
-                />
   </url>
   
   <url>
