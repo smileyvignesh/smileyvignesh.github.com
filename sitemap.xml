@@ -1,16 +1,133 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>http://smileyvignesh.github.com/en/sitemap.xml</loc>
-    
-      <lastmod>2022-07-21T11:33:17+02:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>http://smileyvignesh.github.com/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>http://smileyvignesh.github.com/pt-br/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/apache/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>http://smileyvignesh.github.com/authors/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/benchmarking/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/posts/1_jmeter/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/categories/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/categories/cloud-tools/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/container/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/posts/2_docker/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/docker/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/categories/evaluation/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/posts/mypost/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/jmeter/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/k8s/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/posts/3_k8s/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/kubernetes/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/posts/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/authors/vikee/</loc>
+    <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/projects/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/projects/my_project/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/series/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>k8s on @smileyvignesh</title>
+    <link>http://smileyvignesh.github.com/tags/k8s/</link>
+    <description>Recent content in k8s on @smileyvignesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jul 2022 11:33:17 +0200</lastBuildDate><atom:link href="http://smileyvignesh.github.com/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes</title>
+      <link>http://smileyvignesh.github.com/posts/3_k8s/</link>
+      <pubDate>Thu, 21 Jul 2022 11:33:17 +0200</pubDate>
+      
+      <guid>http://smileyvignesh.github.com/posts/3_k8s/</guid>
+      <description>1.What is k8s
+2.Why it is used
+2a. what is difference between docker and kubernetes?
+3.Applications in 5G
+4.Installation
+5.Examples/Observations</description>
+    </item>
+    
+  </channel>
+</rss>
