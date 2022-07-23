@@ -9,23 +9,19 @@
     <lastBuildDate>Thu, 21 Jul 2022 11:33:17 +0200</lastBuildDate><atom:link href="http://smileyvignesh.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Benchmarking tool - Jmeter</title>
-      <link>http://smileyvignesh.github.com/posts/1_jmeter/</link>
+      <link>http://smileyvignesh.github.com/posts/jmeter/</link>
       <pubDate>Thu, 21 Jul 2022 11:33:17 +0200</pubDate>
       
-      <guid>http://smileyvignesh.github.com/posts/1_jmeter/</guid>
-      <description>1.What is benchmarking
-2.What is apache jmeter
-3.Applications in cloud
-4.Installation
-5.Examples/Observations</description>
+      <guid>http://smileyvignesh.github.com/posts/jmeter/</guid>
+      <description>Benchmarking:    Benchmarking is a paradigm used for evaluating the technology/approach proposed over the other approaches. In other words, benchmarking is basically done to analogize how well the approach is superior/inferior to other approaches in comparison. In network technologies, benchmarking is carried out on all the areas during the evaluation of performance metrics in each experiment. To make an apple-to-apple comparison, benchmarking tools are introduced to show fairness in making the comparison.</description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://smileyvignesh.github.com/posts/2_docker/</link>
+      <link>http://smileyvignesh.github.com/posts/docker/</link>
       <pubDate>Thu, 21 Jul 2022 11:33:17 +0200</pubDate>
       
-      <guid>http://smileyvignesh.github.com/posts/2_docker/</guid>
+      <guid>http://smileyvignesh.github.com/posts/docker/</guid>
       <description>1.What is docker
 2.Why it is used
 3.Applications in 5G
@@ -39,21 +35,31 @@
       <pubDate>Thu, 21 Jul 2022 11:33:17 +0200</pubDate>
       
       <guid>http://smileyvignesh.github.com/posts/mypost/</guid>
-      <description>&#39;&#39;&#39; hello vikee blogs &#39;&#39;&#39;</description>
+      <description>hello, testing blogs </description>
     </item>
     
     <item>
       <title>Kubernetes</title>
-      <link>http://smileyvignesh.github.com/posts/3_k8s/</link>
+      <link>http://smileyvignesh.github.com/posts/k8s/</link>
       <pubDate>Thu, 21 Jul 2022 11:33:17 +0200</pubDate>
       
-      <guid>http://smileyvignesh.github.com/posts/3_k8s/</guid>
+      <guid>http://smileyvignesh.github.com/posts/k8s/</guid>
       <description>1.What is k8s
 2.Why it is used
 2a. what is difference between docker and kubernetes?
 3.Applications in 5G
 4.Installation
 5.Examples/Observations</description>
+    </item>
+    
+    <item>
+      <title>Java - Installation</title>
+      <link>http://smileyvignesh.github.com/posts/java/</link>
+      <pubDate>Wed, 20 Jul 2022 11:33:17 +0200</pubDate>
+      
+      <guid>http://smileyvignesh.github.com/posts/java/</guid>
+      <description>There is always a certain confusion that arises while installing Java in the linux operating system. This is due to the vagueness behind the understanding of following questions, What is JDK and JRE? and, Are both of them the same?. Among JDK and JRE, which is needed to run java programs in the system?.
+The quick answer to the question is, JDK alone is sufficient and to confuse you a bit, JRE alone is also able to run the java programs :).</description>
     </item>
     
   </channel>

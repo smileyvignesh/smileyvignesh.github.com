@@ -9,15 +9,11 @@
     <lastBuildDate>Thu, 21 Jul 2022 11:33:17 +0200</lastBuildDate><atom:link href="http://smileyvignesh.github.com/tags/benchmarking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Benchmarking tool - Jmeter</title>
-      <link>http://smileyvignesh.github.com/posts/1_jmeter/</link>
+      <link>http://smileyvignesh.github.com/posts/jmeter/</link>
       <pubDate>Thu, 21 Jul 2022 11:33:17 +0200</pubDate>
       
-      <guid>http://smileyvignesh.github.com/posts/1_jmeter/</guid>
-      <description>1.What is benchmarking
-2.What is apache jmeter
-3.Applications in cloud
-4.Installation
-5.Examples/Observations</description>
+      <guid>http://smileyvignesh.github.com/posts/jmeter/</guid>
+      <description>Benchmarking:    Benchmarking is a paradigm used for evaluating the technology/approach proposed over the other approaches. In other words, benchmarking is basically done to analogize how well the approach is superior/inferior to other approaches in comparison. In network technologies, benchmarking is carried out on all the areas during the evaluation of performance metrics in each experiment. To make an apple-to-apple comparison, benchmarking tools are introduced to show fairness in making the comparison.</description>
     </item>
     
   </channel>

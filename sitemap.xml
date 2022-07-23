@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>http://smileyvignesh.github.com/posts/1_jmeter/</loc>
+    <loc>http://smileyvignesh.github.com/posts/jmeter/</loc>
     <lastmod>2022-07-21T11:33:17+02:00</lastmod>
   </url>
   
@@ -43,7 +43,7 @@
   </url>
   
   <url>
-    <loc>http://smileyvignesh.github.com/posts/2_docker/</loc>
+    <loc>http://smileyvignesh.github.com/posts/docker/</loc>
     <lastmod>2022-07-21T11:33:17+02:00</lastmod>
   </url>
   
@@ -73,7 +73,7 @@
   </url>
   
   <url>
-    <loc>http://smileyvignesh.github.com/posts/3_k8s/</loc>
+    <loc>http://smileyvignesh.github.com/posts/k8s/</loc>
     <lastmod>2022-07-21T11:33:17+02:00</lastmod>
   </url>
   
@@ -95,6 +95,21 @@
   <url>
     <loc>http://smileyvignesh.github.com/authors/vikee/</loc>
     <lastmod>2022-07-21T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/categories/installation/</loc>
+    <lastmod>2022-07-20T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/tags/java/</loc>
+    <lastmod>2022-07-20T11:33:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileyvignesh.github.com/posts/java/</loc>
+    <lastmod>2022-07-20T11:33:17+02:00</lastmod>
   </url>
   
   <url>

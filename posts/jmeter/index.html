@@ -12,17 +12,17 @@
 
 
 <meta name="author" content="Vignesh Karunakaran">
-<meta name="description" content="hello, testing blogs ">
+<meta name="description" content="Applications of Apache Jmeter tool">
 <meta name="keywords" content="blog,developer,personal">
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="first post"/>
-<meta name="twitter:description" content="hello, testing blogs "/>
+<meta name="twitter:title" content="Benchmarking tool - Jmeter"/>
+<meta name="twitter:description" content="Applications of Apache Jmeter tool"/>
 
-<meta property="og:title" content="first post" />
-<meta property="og:description" content="hello, testing blogs " />
+<meta property="og:title" content="Benchmarking tool - Jmeter" />
+<meta property="og:description" content="Applications of Apache Jmeter tool" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://smileyvignesh.github.com/posts/mypost/" />
+<meta property="og:url" content="http://smileyvignesh.github.com/posts/jmeter/" />
 <meta property="article:published_time" content="2022-07-21T11:33:17+02:00" />
 <meta property="article:modified_time" content="2022-07-21T11:33:17+02:00" />
 
@@ -31,7 +31,7 @@
   <title>@smileyvignesh</title>
 
   
-  <link rel="canonical" href="http://smileyvignesh.github.com/posts/mypost/">
+  <link rel="canonical" href="http://smileyvignesh.github.com/posts/jmeter/">
   
 
   <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
@@ -138,8 +138,8 @@
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="http://smileyvignesh.github.com/posts/mypost/">
-              first post
+            <a class="title-link" href="http://smileyvignesh.github.com/posts/jmeter/">
+              Benchmarking tool - Jmeter
             </a>
           </h1>
         </div>
@@ -160,15 +160,100 @@
   <i class="fa fa-user" aria-hidden="true"></i>
     <a href="/authors/vikee/">vikee</a></div>
 
-          
-          
+          <div class="categories">
+  <i class="fa fa-folder" aria-hidden="true"></i>
+    <a href="/categories/evaluation/">Evaluation</a></div>
+
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/apache/">apache</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/benchmarking/">benchmarking</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/jmeter/">jmeter</a>
+    </span></div>
+
         </div>
       </header>
 
       <div>
         
-        <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">hello, testing blogs
-</code></pre></div>
+        <h3 id="benchmarking">
+  Benchmarking:
+  <a class="heading-link" href="#benchmarking">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<p>Benchmarking is a paradigm used for evaluating the technology/approach proposed over the other approaches. In other words, benchmarking is basically done to analogize how well the approach is superior/inferior to other approaches in comparison. In network technologies, benchmarking is carried out on all the areas during the evaluation of performance metrics in each experiment. To make an apple-to-apple comparison, benchmarking tools are introduced to show fairness in making the comparison. For example, these tools are like simulators following certain guidelines, simulating the standard set of input parameters and monitor the performance metric results.</p>
+<h3 id="apache-jmeter">
+  Apache JMeter:
+  <a class="heading-link" href="#apache-jmeter">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<p>Apache Jmeter is an open-source project used as a load test and analyzes the behavior of the functions with their performance. Jmeter is one such benchmarking tool to equally simulate the input parameters everytime and test upto the bottleneck of the application. Jmeter is used to benchmark various application scenarios like,</p>
+<ul>
+<li>Database queries</li>
+<li>HTTP operations</li>
+<li>File transfer speed</li>
+<li>Web application responsiveness</li>
+<li>Behavior of functions in the applications and much more</li>
+</ul>
+<h3 id="applications-in-cloud">
+  Applications in Cloud:
+  <a class="heading-link" href="#applications-in-cloud">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<h3 id="installation">
+  Installation:
+  <a class="heading-link" href="#installation">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<h6 id="infrastructure-info">
+  Infrastructure Info:
+  <a class="heading-link" href="#infrastructure-info">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h6>
+<ul>
+<li>Linux - Ubuntu 18</li>
+<li>16G Memory</li>
+</ul>
+<h6 id="pre-requisites">
+  Pre-requisites:
+  <a class="heading-link" href="#pre-requisites">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h6>
+<ul>
+<li>Java <a href="http://smileyvignesh.github.com/posts/java/" title="Java Installation">(Installation)</a></li>
+</ul>
+<h6 id="commands">
+  Commands:
+  <a class="heading-link" href="#commands">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h6>
+<p>Jmeter can be installed using following commands,</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">wget https://dlcdn.apache.org//jmeter/binaries/apache-jmeter-5.4.1.zip
+unzip apache-jmeter-5.4.1.zip
+./apache-jmeter-5.4.1/bin/jmeter --version
+cd apache-jmeter-5.4.1/bin
+./jmeter
+</code></pre></div><h3 id="example">
+  Example:
+  <a class="heading-link" href="#example">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+
       </div>
 
 
